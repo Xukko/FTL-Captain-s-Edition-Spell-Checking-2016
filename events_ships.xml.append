@@ -4720,7 +4720,7 @@
 		</choice>
 	</gotaway>
 	<destroyed>
-		<text>The crystalline hull of the craft keeps withstanding you weapon fire, even when most of its systems are already destroyed. Your first mate suggest focusing fire on a possible weak spot. A concentrated barrage finally blows the vessel to pieces. The remains contain little materials of use; writing the log entry for this event will be complicated.</text>
+		<text>The crystalline hull of the craft keeps withstanding your weapon fire, even when most of its systems are already destroyed. Your first mate suggest focusing fire on a possible weak spot. A concentrated barrage finally blows the vessel to pieces. The remains contain little materials of use; writing the log entry for this event will be complicated.</text>
 		<autoReward level="MED">standard</autoReward>
 	</destroyed>
 	<deadCrew>
